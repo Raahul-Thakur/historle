@@ -23,6 +23,8 @@ let gameOver = false;
 let timeLeft = 30;
 let timerId = null;
 
+const STORAGE_KEYS = ["hist_points", "hist_streak", "hist_best_streak"];
+
 document.addEventListener("DOMContentLoaded", () => {
   modeSelect = document.getElementById("mode-select");
   themeSelect = document.getElementById("theme-select");
@@ -44,12 +46,8 @@ document.addEventListener("DOMContentLoaded", () => {
   timerValueSpan = document.getElementById("timer-value");
   timerFill = document.getElementById("timer-fill");
 
-  // Load stats
-  points = Number(localStorage.getItem("hist_points") || 0);
-  streak = Number(localStorage.getItem("hist_streak") || 0);
-  bestStreak = Number(localStorage.getItem("hist_best_streak") || 0);
-  updateStats();
-  updateHearts();
+  clearPersistentStats();
+  resetState();
 
   modeSelect.addEventListener("change", () => (mode = modeSelect.value));
   themeSelect.addEventListener("change", () => (theme = themeSelect.value));
@@ -136,9 +134,11 @@ function updateTimerUI() {
 
 // ---------- Persistence ----------
 function saveStats() {
-  localStorage.setItem("hist_points", points);
-  localStorage.setItem("hist_streak", streak);
-  localStorage.setItem("hist_best_streak", bestStreak);
+  // Stats are no longer persisted across reloads to ensure a fresh session.
+}
+
+function clearPersistentStats() {
+  STORAGE_KEYS.forEach((k) => localStorage.removeItem(k));
 }
 
 // ---------- Game ----------
@@ -163,7 +163,7 @@ function loadNewEvent() {
       .then((r) => r.json())
       .then((d) => {
         if (!d.ok) return showMessage("❌ Error loading events.");
-        eventQueue = d.events;
+        eventQueue = shuffleArray(d.events);
         beginEvent();
       });
   } else beginEvent();
@@ -254,29 +254,48 @@ function endGame() {
 }
 
 function restart() {
-  gameOver = false;
-  hearts = 3;
-  streak = 0;
-  points = 0;
-  bestStreak = 0;
-  saveStats();
-  updateStats();
-  updateHearts();
+  resetState();
   gameOverBox.style.display = "none";
   startButton.style.display = "inline-block";
   themeSelect.disabled = false;
 }
 
 function goHome() {
-  stopTimer();
-  clearMsg();
-  guessForm.style.display = "none";
-  cluePanel.style.display = "none";
-  nextButton.style.display = "none";
+  resetState();
   startButton.style.display = "inline-block";
   themeSelect.disabled = false;
 }
 
 function clearMsg() {
   messageBox.textContent = "";
+}
+
+function resetState() {
+  stopTimer();
+  clearMsg();
+
+  eventQueue = [];
+  currentEvent = null;
+  currentClue = 1;
+  roundResolved = false;
+  gameOver = false;
+  timeLeft = 30;
+
+  points = 0;
+  streak = 0;
+  bestStreak = 0;
+  hearts = 3;
+  updateStats();
+  updateHearts();
+
+  guessForm.style.display = "none";
+  cluePanel.style.display = "none";
+  nextButton.style.display = "none";
+  homeButton.style.display = "none";
+  timerWrapper.style.display = "none";
+  themeSelect.disabled = false;
+}
+
+function shuffleArray(arr) {
+  return [...arr].sort(() => Math.random() - 0.5);
 }
