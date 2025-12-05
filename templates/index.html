@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Historle — History Wordle</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app-root">
+
+    <header class="app-header">
+      <h1 class="title">Historle</h1>
+      <p class="subtitle">Guess the historical event in 5 clues</p>
+      <button id="home-button" class="home-button" style="display:none;">Home</button>
+    </header>
+
+    <section class="top-controls">
+      <div>
+        <label>Mode</label>
+        <select id="mode-select">
+          <option value="classic">Classic</option>
+          <option value="timed">Timed</option>
+          <option value="zen">Zen</option>
+        </select>
+      </div>
+
+      <div>
+        <label>Theme</label>
+        <select id="theme-select">
+          <option value="Global">Global</option>
+          <option value="American History">American History</option>
+          <option value="WW2">WW2</option>
+          <option value="Science & Space">Science & Space</option>
+          <option value="Ancient Civilizations">Ancient Civilizations</option>
+          <option value="Modern Politics">Modern Politics</option>
+          <option value="Technology & Innovation">Technology & Innovation</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="stats-section">
+      <div class="stats-bar">
+        ⭐ Points: <span id="points-value">0</span>
+        🔥 Streak: <span id="streak-value">0</span>
+        🏅 Best: <span id="best-streak-value">0</span>
+      </div>
+
+      <div class="hearts">
+        ❤️ Hearts:
+        <span id="hearts-container"></span>
+      </div>
+
+      <div id="timer-wrapper" class="timer" style="display:none;">
+        <span>⏰ <span id="timer-value">30</span>s</span>
+        <div class="timer-bar"><div id="timer-fill" class="timer-fill"></div></div>
+      </div>
+    </section>
+
+    <main class="game-area">
+      <button id="start-button" class="primary-button">Start Game</button>
+
+      <div id="clue-panel" class="clue-panel" style="display:none;">
+        <div class="clue-box" data-clue="1"><div class="clue-header">Clue 1</div><div class="clue-text">Locked</div></div>
+        <div class="clue-box" data-clue="2"><div class="clue-header">Clue 2</div><div class="clue-text">Locked</div></div>
+        <div class="clue-box" data-clue="3"><div class="clue-header">Clue 3</div><div class="clue-text">Locked</div></div>
+        <div class="clue-box" data-clue="4"><div class="clue-header">Clue 4</div><div class="clue-text">Locked</div></div>
+        <div class="clue-box" data-clue="5"><div class="clue-header">Clue 5</div><div class="clue-text">Locked</div></div>
+      </div>
+
+      <form id="guess-form" class="guess-form" style="display:none;">
+        <input id="guess-input" class="guess-input" placeholder="Type your guess..." autocomplete="off"/>
+        <button type="submit" class="guess-button">Guess</button>
+      </form>
+
+      <button id="next-button" class="secondary-button" style="display:none;">Next Event</button>
+
+      <div id="game-over" class="game-over" style="display:none;">
+        <h2>💀 Game Over</h2>
+        Final score: <span id="final-score"></span><br>
+        Best streak: <span id="final-best-streak"></span><br>
+        <button id="restart-button" class="primary-button">Play Again</button>
+      </div>
+
+      <div id="message" class="message"></div>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
