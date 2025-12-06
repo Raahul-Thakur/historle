@@ -23,6 +23,8 @@ let gameOver = false;
 let timeLeft = 30;
 let timerId = null;
 
+let rulesCard;
+
 const STORAGE_KEYS = ["hist_points", "hist_streak", "hist_best_streak"];
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -45,6 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
   timerWrapper = document.getElementById("timer-wrapper");
   timerValueSpan = document.getElementById("timer-value");
   timerFill = document.getElementById("timer-fill");
+  rulesCard = document.getElementById("rules-card");
 
   clearPersistentStats();
   resetState();
@@ -153,6 +156,7 @@ function loadNewEvent() {
   cluePanel.style.display = "none";
   guessForm.style.display = "none";
   themeSelect.disabled = true;
+  if (rulesCard) rulesCard.style.display = "none";
 
   if (eventQueue.length === 0) {
     fetch("/api/batch_events", {
@@ -294,6 +298,7 @@ function resetState() {
   homeButton.style.display = "none";
   timerWrapper.style.display = "none";
   themeSelect.disabled = false;
+  if (rulesCard) rulesCard.style.display = "block";
 }
 
 function shuffleArray(arr) {

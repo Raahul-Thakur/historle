@@ -15,51 +15,101 @@
       <button id="home-button" class="home-button" style="display:none;">Home</button>
     </header>
 
-    <section class="top-controls">
-      <div>
-        <label>Mode</label>
-        <select id="mode-select">
-          <option value="classic">Classic</option>
-          <option value="timed">Timed</option>
-          <option value="zen">Zen</option>
-        </select>
-      </div>
-
-      <div>
-        <label>Theme</label>
-        <select id="theme-select">
-          <option value="Global">Global</option>
-          <option value="American History">American History</option>
-          <option value="WW2">WW2</option>
-          <option value="Science & Space">Science & Space</option>
-          <option value="Ancient Civilizations">Ancient Civilizations</option>
-          <option value="Modern Politics">Modern Politics</option>
-          <option value="Technology & Innovation">Technology & Innovation</option>
-        </select>
+    <section class="hero">
+      <div class="hero-text">
+        <p class="hero-kicker">Sharpen your history instincts</p>
+        <h2>Unlock an event using five escalating clues.</h2>
+        <p class="hero-lede">
+          Choose a mode, pick a theme, and see how long you can protect your streak.
+          Each correct answer earns points based on how early you guess.
+        </p>
+        <div class="hero-actions">
+          <button id="start-button" class="primary-button start-button">Start Game</button>
+          <div class="pill-row">
+            <span class="pill">Classic, Timed, or Zen</span>
+            <span class="pill">Seven curated themes</span>
+            <span class="pill">Streaks &amp; hearts</span>
+          </div>
+        </div>
       </div>
     </section>
 
-    <section class="stats-section">
-      <div class="stats-bar">
-        ⭐ Points: <span id="points-value">0</span>
-        🔥 Streak: <span id="streak-value">0</span>
-        🏅 Best: <span id="best-streak-value">0</span>
+    <section class="dashboard">
+      <div class="card">
+        <div class="card-header">
+          <span class="card-title">Game Setup</span>
+          <span class="card-subtitle">Adjust how you want to play</span>
+        </div>
+        <div class="top-controls">
+          <div class="select-group">
+            <label for="mode-select">Mode</label>
+            <select id="mode-select">
+              <option value="classic">Classic</option>
+              <option value="timed">Timed</option>
+              <option value="zen">Zen</option>
+            </select>
+          </div>
+
+          <div class="select-group">
+            <label for="theme-select">Theme</label>
+            <select id="theme-select">
+              <option value="Global">Global</option>
+              <option value="American History">American History</option>
+              <option value="WW2">WW2</option>
+              <option value="Science & Space">Science & Space</option>
+              <option value="Ancient Civilizations">Ancient Civilizations</option>
+              <option value="Modern Politics">Modern Politics</option>
+              <option value="Technology & Innovation">Technology & Innovation</option>
+            </select>
+          </div>
+        </div>
       </div>
 
-      <div class="hearts">
-        ❤️ Hearts:
-        <span id="hearts-container"></span>
+      <div class="card stats-card">
+        <div class="card-header">
+          <span class="card-title">Your Progress</span>
+          <span class="card-subtitle">Stay alive and keep climbing</span>
+        </div>
+        <div class="stats-grid">
+          <div class="stat">
+            <div class="stat-label">⭐ Points</div>
+            <div class="stat-value" id="points-value">0</div>
+          </div>
+          <div class="stat">
+            <div class="stat-label">🔥 Streak</div>
+            <div class="stat-value" id="streak-value">0</div>
+          </div>
+          <div class="stat">
+            <div class="stat-label">🏅 Best</div>
+            <div class="stat-value" id="best-streak-value">0</div>
+          </div>
+          <div class="stat hearts">
+            <div class="stat-label">❤️ Hearts</div>
+            <div class="stat-value" id="hearts-container"></div>
+          </div>
+        </div>
+        <div id="timer-wrapper" class="timer" style="display:none;">
+          <span>⏰ <span id="timer-value">30</span>s</span>
+          <div class="timer-bar"><div id="timer-fill" class="timer-fill"></div></div>
+        </div>
       </div>
 
-      <div id="timer-wrapper" class="timer" style="display:none;">
-        <span>⏰ <span id="timer-value">30</span>s</span>
-        <div class="timer-bar"><div id="timer-fill" class="timer-fill"></div></div>
+      <div id="rules-card" class="card rules-card">
+        <div class="card-header">
+          <span class="card-title">How to play</span>
+          <span class="card-subtitle">Read this before you jump in</span>
+        </div>
+        <ul>
+          <li>Start the round to reveal your first clue about a historical event.</li>
+          <li>Submit a guess at any time; earlier guesses score more points.</li>
+          <li>Each wrong answer unlocks the next clue. You have five in total.</li>
+          <li>Lose a heart when you run out of clues (timed mode also ticks down).</li>
+          <li>Keep your streak alive and chase a new personal best!</li>
+        </ul>
       </div>
     </section>
 
     <main class="game-area">
-      <button id="start-button" class="primary-button">Start Game</button>
-
       <div id="clue-panel" class="clue-panel" style="display:none;">
         <div class="clue-box" data-clue="1"><div class="clue-header">Clue 1</div><div class="clue-text">Locked</div></div>
         <div class="clue-box" data-clue="2"><div class="clue-header">Clue 2</div><div class="clue-text">Locked</div></div>
