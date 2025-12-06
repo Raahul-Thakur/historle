@@ -24,43 +24,17 @@ def _load_local_events() -> list[Dict[str, Any]]:
         print(f"Failed to load local events: {exc}")
         return []
 
+LOCAL_EVENTS = _load_local_events()
 
 LOCAL_EVENTS = _load_local_events()
 
 
 def _normalize(s: str) -> str:
-    return " ".join(
-        "".join(ch for ch in s.lower().strip() if ch.isalnum() or ch.isspace()).split()
-    )
+    return "".join(ch for ch in s.lower().strip() if ch.isalnum() or ch.isspace())
 
 
-def _tokens(s: str) -> list[str]:
-    return [tok for tok in _normalize(s).split(" ") if tok]
-
-
-def _token_overlap_match(guess: str, answer: str) -> bool:
-    guess_tokens = _tokens(guess)
-    answer_tokens = set(_tokens(answer))
-    if not guess_tokens or not answer_tokens:
-        return False
-
-    return all(tok in answer_tokens for tok in guess_tokens)
-
-
-def _fuzzy_match(a: str, b: str, threshold=0.7) -> bool:
-    norm_a = _normalize(a)
-    norm_b = _normalize(b)
-
-    if not norm_a or not norm_b:
-        return False
-
-    if norm_a in norm_b or norm_b in norm_a:
-        return True
-
-    if _token_overlap_match(norm_a, norm_b):
-        return True
-
-    return difflib.SequenceMatcher(None, norm_a, norm_b).ratio() >= threshold
+def _fuzzy_match(a: str, b: str, threshold=0.78) -> bool:
+    return difflib.SequenceMatcher(None, _normalize(a), _normalize(b)).ratio() >= threshold
 
 
 def check_guess(guess: str, event: Dict[str, Any]) -> bool:
