@@ -1,0 +1,1602 @@
+[
+  {
+    "event_title": "Signing of the Magna Carta",
+    "date": "1215-06-15",
+    "country_or_region": "England",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Signing of the Magna Carta"
+    ],
+    "clues": {
+      "1_date": "1215-06-15",
+      "2_geo_domain": "England \u2022 politics",
+      "3_vague_headline": "Barons force a monarch to accept limits on royal power.",
+      "4_redacted_headline": "_____ of the Magna Carta stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Signing of the Magna Carta reshapes politics in England."
+    }
+  },
+  {
+    "event_title": "Fall of Constantinople",
+    "date": "1453-05-29",
+    "country_or_region": "Eastern Mediterranean",
+    "domain": "Military",
+    "accepted_answers": [
+      "Fall of Constantinople"
+    ],
+    "clues": {
+      "1_date": "1453-05-29",
+      "2_geo_domain": "Eastern Mediterranean \u2022 military",
+      "3_vague_headline": "A medieval capital falls after siege, ending the Byzantine Empire.",
+      "4_redacted_headline": "_____ of Constantinople stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Fall of Constantinople reshapes military in Eastern Mediterranean."
+    }
+  },
+  {
+    "event_title": "Columbus Reaches the Americas",
+    "date": "1492-10-12",
+    "country_or_region": "Caribbean",
+    "domain": "Exploration",
+    "accepted_answers": [
+      "Columbus Reaches the Americas"
+    ],
+    "clues": {
+      "1_date": "1492-10-12",
+      "2_geo_domain": "Caribbean \u2022 exploration",
+      "3_vague_headline": "An Atlantic voyage seeking Asia makes landfall on unexpected islands.",
+      "4_redacted_headline": "_____ Reaches the Americas stands as a pivotal moment in exploration.",
+      "5_almost_full_headline": "Columbus Reaches the Americas reshapes exploration in Caribbean."
+    }
+  },
+  {
+    "event_title": "Protestant Reformation Begins",
+    "date": "1517-10-31",
+    "country_or_region": "Germany",
+    "domain": "Religion",
+    "accepted_answers": [
+      "Protestant Reformation Begins"
+    ],
+    "clues": {
+      "1_date": "1517-10-31",
+      "2_geo_domain": "Germany \u2022 religion",
+      "3_vague_headline": "A scholar challenges church practices with a set of theses.",
+      "4_redacted_headline": "_____ Reformation Begins stands as a pivotal moment in religion.",
+      "5_almost_full_headline": "Protestant Reformation Begins reshapes religion in Germany."
+    }
+  },
+  {
+    "event_title": "Spanish Armada Defeated",
+    "date": "1588-08",
+    "country_or_region": "English Channel",
+    "domain": "Military",
+    "accepted_answers": [
+      "Spanish Armada Defeated"
+    ],
+    "clues": {
+      "1_date": "1588-08",
+      "2_geo_domain": "English Channel \u2022 military",
+      "3_vague_headline": "An invasion fleet is scattered by nimble opponents and storms.",
+      "4_redacted_headline": "_____ Armada Defeated stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Spanish Armada Defeated reshapes military in English Channel."
+    }
+  },
+  {
+    "event_title": "Galileo's Telescope Discoveries",
+    "date": "1610",
+    "country_or_region": "Italy",
+    "domain": "Science",
+    "accepted_answers": [
+      "Galileo's Telescope Discoveries"
+    ],
+    "clues": {
+      "1_date": "1610",
+      "2_geo_domain": "Italy \u2022 science",
+      "3_vague_headline": "Early telescopic observations reveal moons orbiting another planet.",
+      "4_redacted_headline": "_____ Telescope Discoveries stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Galileo's Telescope Discoveries reshapes science in Italy."
+    }
+  },
+  {
+    "event_title": "English Civil War Begins",
+    "date": "1642",
+    "country_or_region": "England",
+    "domain": "Military",
+    "accepted_answers": [
+      "English Civil War Begins"
+    ],
+    "clues": {
+      "1_date": "1642",
+      "2_geo_domain": "England \u2022 military",
+      "3_vague_headline": "Parliamentary and royal forces clash over governance and religion.",
+      "4_redacted_headline": "_____ Civil War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "English Civil War Begins reshapes military in England."
+    }
+  },
+  {
+    "event_title": "Glorious Revolution",
+    "date": "1688",
+    "country_or_region": "England",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Glorious Revolution"
+    ],
+    "clues": {
+      "1_date": "1688",
+      "2_geo_domain": "England \u2022 politics",
+      "3_vague_headline": "A largely bloodless coup replaces a monarch with a constitutional pair.",
+      "4_redacted_headline": "_____ Revolution stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Glorious Revolution reshapes politics in England."
+    }
+  },
+  {
+    "event_title": "Salem Witch Trials",
+    "date": "1692",
+    "country_or_region": "New England",
+    "domain": "Law",
+    "accepted_answers": [
+      "Salem Witch Trials"
+    ],
+    "clues": {
+      "1_date": "1692",
+      "2_geo_domain": "New England \u2022 law",
+      "3_vague_headline": "Colonial courts prosecute alleged sorcery in a climate of fear.",
+      "4_redacted_headline": "_____ Witch Trials stands as a pivotal moment in law.",
+      "5_almost_full_headline": "Salem Witch Trials reshapes law in New England."
+    }
+  },
+  {
+    "event_title": "American Declaration of Independence",
+    "date": "1776-07-04",
+    "country_or_region": "North America",
+    "domain": "Politics",
+    "accepted_answers": [
+      "American Declaration of Independence"
+    ],
+    "clues": {
+      "1_date": "1776-07-04",
+      "2_geo_domain": "North America \u2022 politics",
+      "3_vague_headline": "Colonial leaders formally sever ties with the British crown.",
+      "4_redacted_headline": "_____ Declaration of Independence stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "American Declaration of Independence reshapes politics in North America."
+    }
+  },
+  {
+    "event_title": "Boston Tea Party",
+    "date": "1773-12-16",
+    "country_or_region": "Boston",
+    "domain": "Protest",
+    "accepted_answers": [
+      "Boston Tea Party"
+    ],
+    "clues": {
+      "1_date": "1773-12-16",
+      "2_geo_domain": "Boston \u2022 protest",
+      "3_vague_headline": "Demonstrators dump taxed cargo into a harbor to defy imperial policy.",
+      "4_redacted_headline": "_____ Tea Party stands as a pivotal moment in protest.",
+      "5_almost_full_headline": "Boston Tea Party reshapes protest in Boston."
+    }
+  },
+  {
+    "event_title": "Battle of Yorktown",
+    "date": "1781-10-19",
+    "country_or_region": "Virginia",
+    "domain": "Military",
+    "accepted_answers": [
+      "Battle of Yorktown"
+    ],
+    "clues": {
+      "1_date": "1781-10-19",
+      "2_geo_domain": "Virginia \u2022 military",
+      "3_vague_headline": "Combined forces trap a British army, ending major fighting in a revolution.",
+      "4_redacted_headline": "_____ of Yorktown stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Battle of Yorktown reshapes military in Virginia."
+    }
+  },
+  {
+    "event_title": "French Revolution Begins",
+    "date": "1789-07-14",
+    "country_or_region": "France",
+    "domain": "Politics",
+    "accepted_answers": [
+      "French Revolution Begins"
+    ],
+    "clues": {
+      "1_date": "1789-07-14",
+      "2_geo_domain": "France \u2022 politics",
+      "3_vague_headline": "Citizens storm a fortress prison, symbolizing uprising against monarchy.",
+      "4_redacted_headline": "_____ Revolution Begins stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "French Revolution Begins reshapes politics in France."
+    }
+  },
+  {
+    "event_title": "Haitian Declaration of Independence",
+    "date": "1804-01-01",
+    "country_or_region": "Haiti",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Haitian Declaration of Independence"
+    ],
+    "clues": {
+      "1_date": "1804-01-01",
+      "2_geo_domain": "Haiti \u2022 politics",
+      "3_vague_headline": "A former colony proclaims freedom after a successful slave revolt.",
+      "4_redacted_headline": "_____ Declaration of Independence stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Haitian Declaration of Independence reshapes politics in Haiti."
+    }
+  },
+  {
+    "event_title": "Louisiana Purchase",
+    "date": "1803-04-30",
+    "country_or_region": "North America",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Louisiana Purchase"
+    ],
+    "clues": {
+      "1_date": "1803-04-30",
+      "2_geo_domain": "North America \u2022 politics",
+      "3_vague_headline": "A young republic buys vast territory from a European power.",
+      "4_redacted_headline": "_____ Purchase stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Louisiana Purchase reshapes politics in North America."
+    }
+  },
+  {
+    "event_title": "Napoleon Crowned Emperor",
+    "date": "1804-12-02",
+    "country_or_region": "France",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Napoleon Crowned Emperor"
+    ],
+    "clues": {
+      "1_date": "1804-12-02",
+      "2_geo_domain": "France \u2022 politics",
+      "3_vague_headline": "A revolutionary general crowns himself, creating a new empire.",
+      "4_redacted_headline": "_____ Crowned Emperor stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Napoleon Crowned Emperor reshapes politics in France."
+    }
+  },
+  {
+    "event_title": "Battle of Trafalgar",
+    "date": "1805-10-21",
+    "country_or_region": "Atlantic",
+    "domain": "Military",
+    "accepted_answers": [
+      "Battle of Trafalgar"
+    ],
+    "clues": {
+      "1_date": "1805-10-21",
+      "2_geo_domain": "Atlantic \u2022 military",
+      "3_vague_headline": "A naval fleet defeats a Franco-Spanish armada, securing sea dominance.",
+      "4_redacted_headline": "_____ of Trafalgar stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Battle of Trafalgar reshapes military in Atlantic."
+    }
+  },
+  {
+    "event_title": "Battle of Waterloo",
+    "date": "1815-06-18",
+    "country_or_region": "Belgium",
+    "domain": "Military",
+    "accepted_answers": [
+      "Battle of Waterloo"
+    ],
+    "clues": {
+      "1_date": "1815-06-18",
+      "2_geo_domain": "Belgium \u2022 military",
+      "3_vague_headline": "Coalition armies defeat a returning emperor's final bid for power.",
+      "4_redacted_headline": "_____ of Waterloo stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Battle of Waterloo reshapes military in Belgium."
+    }
+  },
+  {
+    "event_title": "Congress of Vienna",
+    "date": "1815",
+    "country_or_region": "Europe",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "Congress of Vienna"
+    ],
+    "clues": {
+      "1_date": "1815",
+      "2_geo_domain": "Europe \u2022 diplomacy",
+      "3_vague_headline": "Powers redraw continental borders after years of revolutionary wars.",
+      "4_redacted_headline": "_____ of Vienna stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "Congress of Vienna reshapes diplomacy in Europe."
+    }
+  },
+  {
+    "event_title": "Greek War of Independence",
+    "date": "1821",
+    "country_or_region": "Greece",
+    "domain": "Military",
+    "accepted_answers": [
+      "Greek War of Independence"
+    ],
+    "clues": {
+      "1_date": "1821",
+      "2_geo_domain": "Greece \u2022 military",
+      "3_vague_headline": "Rebels rise against Ottoman rule seeking a national state.",
+      "4_redacted_headline": "_____ War of Independence stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Greek War of Independence reshapes military in Greece."
+    }
+  },
+  {
+    "event_title": "Trail of Tears",
+    "date": "1838",
+    "country_or_region": "United States",
+    "domain": "Human Rights",
+    "accepted_answers": [
+      "Trail of Tears"
+    ],
+    "clues": {
+      "1_date": "1838",
+      "2_geo_domain": "United States \u2022 human rights",
+      "3_vague_headline": "Indigenous nations are forcibly relocated westward under federal policy.",
+      "4_redacted_headline": "_____ of Tears stands as a pivotal moment in human rights.",
+      "5_almost_full_headline": "Trail of Tears reshapes human rights in United States."
+    }
+  },
+  {
+    "event_title": "California Gold Rush",
+    "date": "1849",
+    "country_or_region": "California",
+    "domain": "Economy",
+    "accepted_answers": [
+      "California Gold Rush"
+    ],
+    "clues": {
+      "1_date": "1849",
+      "2_geo_domain": "California \u2022 economy",
+      "3_vague_headline": "A mineral discovery triggers massive migration and settlement.",
+      "4_redacted_headline": "_____ Gold Rush stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "California Gold Rush reshapes economy in California."
+    }
+  },
+  {
+    "event_title": "Crimean War Begins",
+    "date": "1853",
+    "country_or_region": "Black Sea",
+    "domain": "Military",
+    "accepted_answers": [
+      "Crimean War Begins"
+    ],
+    "clues": {
+      "1_date": "1853",
+      "2_geo_domain": "Black Sea \u2022 military",
+      "3_vague_headline": "Great powers clash over influence in a declining empire's territory.",
+      "4_redacted_headline": "_____ War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Crimean War Begins reshapes military in Black Sea."
+    }
+  },
+  {
+    "event_title": "Indian Rebellion of 1857",
+    "date": "1857",
+    "country_or_region": "India",
+    "domain": "Military",
+    "accepted_answers": [
+      "Indian Rebellion of 1857"
+    ],
+    "clues": {
+      "1_date": "1857",
+      "2_geo_domain": "India \u2022 military",
+      "3_vague_headline": "Mutinies and uprisings challenge a company's rule over the subcontinent.",
+      "4_redacted_headline": "_____ Rebellion of 1857 stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Indian Rebellion of 1857 reshapes military in India."
+    }
+  },
+  {
+    "event_title": "Italian Unification Proclaimed",
+    "date": "1861-03-17",
+    "country_or_region": "Italy",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Italian Unification Proclaimed"
+    ],
+    "clues": {
+      "1_date": "1861-03-17",
+      "2_geo_domain": "Italy \u2022 politics",
+      "3_vague_headline": "A new kingdom is declared, consolidating peninsular states.",
+      "4_redacted_headline": "_____ Unification Proclaimed stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Italian Unification Proclaimed reshapes politics in Italy."
+    }
+  },
+  {
+    "event_title": "American Civil War Begins",
+    "date": "1861-04-12",
+    "country_or_region": "United States",
+    "domain": "Military",
+    "accepted_answers": [
+      "American Civil War Begins"
+    ],
+    "clues": {
+      "1_date": "1861-04-12",
+      "2_geo_domain": "United States \u2022 military",
+      "3_vague_headline": "Shots at a harbor fort spark a four-year internal conflict.",
+      "4_redacted_headline": "_____ Civil War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "American Civil War Begins reshapes military in United States."
+    }
+  },
+  {
+    "event_title": "Emancipation Proclamation",
+    "date": "1863-01-01",
+    "country_or_region": "United States",
+    "domain": "Law",
+    "accepted_answers": [
+      "Emancipation Proclamation"
+    ],
+    "clues": {
+      "1_date": "1863-01-01",
+      "2_geo_domain": "United States \u2022 law",
+      "3_vague_headline": "An executive order declares freedom for enslaved people in rebelling areas.",
+      "4_redacted_headline": "_____ Proclamation stands as a pivotal moment in law.",
+      "5_almost_full_headline": "Emancipation Proclamation reshapes law in United States."
+    }
+  },
+  {
+    "event_title": "Battle of Gettysburg",
+    "date": "1863-07",
+    "country_or_region": "United States",
+    "domain": "Military",
+    "accepted_answers": [
+      "Battle of Gettysburg"
+    ],
+    "clues": {
+      "1_date": "1863-07",
+      "2_geo_domain": "United States \u2022 military",
+      "3_vague_headline": "A pivotal three-day clash turns the tide in a civil war.",
+      "4_redacted_headline": "_____ of Gettysburg stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Battle of Gettysburg reshapes military in United States."
+    }
+  },
+  {
+    "event_title": "Meiji Restoration",
+    "date": "1868",
+    "country_or_region": "Japan",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Meiji Restoration"
+    ],
+    "clues": {
+      "1_date": "1868",
+      "2_geo_domain": "Japan \u2022 politics",
+      "3_vague_headline": "Imperial rule is restored, launching rapid modernization.",
+      "4_redacted_headline": "_____ Restoration stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Meiji Restoration reshapes politics in Japan."
+    }
+  },
+  {
+    "event_title": "Franco-Prussian War Begins",
+    "date": "1870",
+    "country_or_region": "Europe",
+    "domain": "Military",
+    "accepted_answers": [
+      "Franco-Prussian War Begins"
+    ],
+    "clues": {
+      "1_date": "1870",
+      "2_geo_domain": "Europe \u2022 military",
+      "3_vague_headline": "A conflict sets the stage for German unification under Prussian leadership.",
+      "4_redacted_headline": "_____ War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Franco-Prussian War Begins reshapes military in Europe."
+    }
+  },
+  {
+    "event_title": "Telephone Patented",
+    "date": "1876-03-07",
+    "country_or_region": "United States",
+    "domain": "Technology",
+    "accepted_answers": [
+      "Telephone Patented"
+    ],
+    "clues": {
+      "1_date": "1876-03-07",
+      "2_geo_domain": "United States \u2022 technology",
+      "3_vague_headline": "A new device promises voice communication over wires.",
+      "4_redacted_headline": "_____ Patented stands as a pivotal moment in technology.",
+      "5_almost_full_headline": "Telephone Patented reshapes technology in United States."
+    }
+  },
+  {
+    "event_title": "Battle of Little Bighorn",
+    "date": "1876-06-25",
+    "country_or_region": "Montana",
+    "domain": "Military",
+    "accepted_answers": [
+      "Battle of Little Bighorn"
+    ],
+    "clues": {
+      "1_date": "1876-06-25",
+      "2_geo_domain": "Montana \u2022 military",
+      "3_vague_headline": "Native allies defeat a cavalry regiment in a prominent frontier battle.",
+      "4_redacted_headline": "_____ of Little Bighorn stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Battle of Little Bighorn reshapes military in Montana."
+    }
+  },
+  {
+    "event_title": "Berlin Conference",
+    "date": "1884",
+    "country_or_region": "Europe",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "Berlin Conference"
+    ],
+    "clues": {
+      "1_date": "1884",
+      "2_geo_domain": "Europe \u2022 diplomacy",
+      "3_vague_headline": "Colonial powers divide African territories with little local input.",
+      "4_redacted_headline": "_____ Conference stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "Berlin Conference reshapes diplomacy in Europe."
+    }
+  },
+  {
+    "event_title": "Statue of Liberty Dedicated",
+    "date": "1886-10-28",
+    "country_or_region": "New York",
+    "domain": "Culture",
+    "accepted_answers": [
+      "Statue of Liberty Dedicated"
+    ],
+    "clues": {
+      "1_date": "1886-10-28",
+      "2_geo_domain": "New York \u2022 culture",
+      "3_vague_headline": "A colossal gift is unveiled as a symbol of friendship and freedom.",
+      "4_redacted_headline": "_____ of Liberty Dedicated stands as a pivotal moment in culture.",
+      "5_almost_full_headline": "Statue of Liberty Dedicated reshapes culture in New York."
+    }
+  },
+  {
+    "event_title": "Boxer Rebellion",
+    "date": "1899",
+    "country_or_region": "China",
+    "domain": "Military",
+    "accepted_answers": [
+      "Boxer Rebellion"
+    ],
+    "clues": {
+      "1_date": "1899",
+      "2_geo_domain": "China \u2022 military",
+      "3_vague_headline": "Anti-foreign uprising challenges influence of outside powers.",
+      "4_redacted_headline": "_____ Rebellion stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Boxer Rebellion reshapes military in China."
+    }
+  },
+  {
+    "event_title": "Wright Brothers' First Flight",
+    "date": "1903-12-17",
+    "country_or_region": "North Carolina",
+    "domain": "Technology",
+    "accepted_answers": [
+      "Wright Brothers' First Flight"
+    ],
+    "clues": {
+      "1_date": "1903-12-17",
+      "2_geo_domain": "North Carolina \u2022 technology",
+      "3_vague_headline": "A powered aircraft achieves sustained controlled flight.",
+      "4_redacted_headline": "_____ Brothers' First Flight stands as a pivotal moment in technology.",
+      "5_almost_full_headline": "Wright Brothers' First Flight reshapes technology in North Carolina."
+    }
+  },
+  {
+    "event_title": "San Francisco Earthquake",
+    "date": "1906-04-18",
+    "country_or_region": "California",
+    "domain": "Disaster",
+    "accepted_answers": [
+      "San Francisco Earthquake"
+    ],
+    "clues": {
+      "1_date": "1906-04-18",
+      "2_geo_domain": "California \u2022 disaster",
+      "3_vague_headline": "A major quake and fires devastate a Pacific coastal city.",
+      "4_redacted_headline": "_____ Francisco Earthquake stands as a pivotal moment in disaster.",
+      "5_almost_full_headline": "San Francisco Earthquake reshapes disaster in California."
+    }
+  },
+  {
+    "event_title": "Sinking of the Titanic",
+    "date": "1912-04-15",
+    "country_or_region": "North Atlantic",
+    "domain": "Disaster",
+    "accepted_answers": [
+      "Sinking of the Titanic"
+    ],
+    "clues": {
+      "1_date": "1912-04-15",
+      "2_geo_domain": "North Atlantic \u2022 disaster",
+      "3_vague_headline": "A luxury liner strikes an iceberg on its maiden voyage.",
+      "4_redacted_headline": "_____ of the Titanic stands as a pivotal moment in disaster.",
+      "5_almost_full_headline": "Sinking of the Titanic reshapes disaster in North Atlantic."
+    }
+  },
+  {
+    "event_title": "Assassination in Sarajevo",
+    "date": "1914-06-28",
+    "country_or_region": "Balkans",
+    "domain": "Military",
+    "accepted_answers": [
+      "Assassination in Sarajevo"
+    ],
+    "clues": {
+      "1_date": "1914-06-28",
+      "2_geo_domain": "Balkans \u2022 military",
+      "3_vague_headline": "A royal heir is killed, triggering alliances into a world war.",
+      "4_redacted_headline": "_____ in Sarajevo stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Assassination in Sarajevo reshapes military in Balkans."
+    }
+  },
+  {
+    "event_title": "Panama Canal Opens",
+    "date": "1914-08-15",
+    "country_or_region": "Panama",
+    "domain": "Infrastructure",
+    "accepted_answers": [
+      "Panama Canal Opens"
+    ],
+    "clues": {
+      "1_date": "1914-08-15",
+      "2_geo_domain": "Panama \u2022 infrastructure",
+      "3_vague_headline": "A transoceanic waterway begins operation after years of work.",
+      "4_redacted_headline": "_____ Canal Opens stands as a pivotal moment in infrastructure.",
+      "5_almost_full_headline": "Panama Canal Opens reshapes infrastructure in Panama."
+    }
+  },
+  {
+    "event_title": "Russian Revolution",
+    "date": "1917",
+    "country_or_region": "Russia",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Russian Revolution"
+    ],
+    "clues": {
+      "1_date": "1917",
+      "2_geo_domain": "Russia \u2022 politics",
+      "3_vague_headline": "Tsarist rule collapses and a new socialist government rises.",
+      "4_redacted_headline": "_____ Revolution stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Russian Revolution reshapes politics in Russia."
+    }
+  },
+  {
+    "event_title": "Armistice Ends World War I",
+    "date": "1918-11-11",
+    "country_or_region": "Europe",
+    "domain": "Military",
+    "accepted_answers": [
+      "Armistice Ends World War I"
+    ],
+    "clues": {
+      "1_date": "1918-11-11",
+      "2_geo_domain": "Europe \u2022 military",
+      "3_vague_headline": "Fighting ceases on the Western Front after massive losses.",
+      "4_redacted_headline": "_____ Ends World War I stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Armistice Ends World War I reshapes military in Europe."
+    }
+  },
+  {
+    "event_title": "Treaty of Versailles Signed",
+    "date": "1919-06-28",
+    "country_or_region": "France",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "Treaty of Versailles Signed"
+    ],
+    "clues": {
+      "1_date": "1919-06-28",
+      "2_geo_domain": "France \u2022 diplomacy",
+      "3_vague_headline": "Peace terms impose reparations and redrew borders after World War I.",
+      "4_redacted_headline": "_____ of Versailles Signed stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "Treaty of Versailles Signed reshapes diplomacy in France."
+    }
+  },
+  {
+    "event_title": "Women's Suffrage in United States",
+    "date": "1920-08-18",
+    "country_or_region": "United States",
+    "domain": "Law",
+    "accepted_answers": [
+      "Women's Suffrage in United States"
+    ],
+    "clues": {
+      "1_date": "1920-08-18",
+      "2_geo_domain": "United States \u2022 law",
+      "3_vague_headline": "A constitutional amendment guarantees voting rights regardless of sex.",
+      "4_redacted_headline": "_____ Suffrage in United States stands as a pivotal moment in law.",
+      "5_almost_full_headline": "Women's Suffrage in United States reshapes law in United States."
+    }
+  },
+  {
+    "event_title": "Discovery of Penicillin",
+    "date": "1928",
+    "country_or_region": "United Kingdom",
+    "domain": "Science",
+    "accepted_answers": [
+      "Discovery of Penicillin"
+    ],
+    "clues": {
+      "1_date": "1928",
+      "2_geo_domain": "United Kingdom \u2022 science",
+      "3_vague_headline": "A chance observation of mold leads to a groundbreaking antibiotic.",
+      "4_redacted_headline": "_____ of Penicillin stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Discovery of Penicillin reshapes science in United Kingdom."
+    }
+  },
+  {
+    "event_title": "Stock Market Crash",
+    "date": "1929-10-29",
+    "country_or_region": "United States",
+    "domain": "Economy",
+    "accepted_answers": [
+      "Stock Market Crash"
+    ],
+    "clues": {
+      "1_date": "1929-10-29",
+      "2_geo_domain": "United States \u2022 economy",
+      "3_vague_headline": "Markets plunge on a black Tuesday, ushering in a global depression.",
+      "4_redacted_headline": "_____ Market Crash stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "Stock Market Crash reshapes economy in United States."
+    }
+  },
+  {
+    "event_title": "Nazis Seize Power",
+    "date": "1933",
+    "country_or_region": "Germany",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Nazis Seize Power"
+    ],
+    "clues": {
+      "1_date": "1933",
+      "2_geo_domain": "Germany \u2022 politics",
+      "3_vague_headline": "A leader becomes chancellor and consolidates total control.",
+      "4_redacted_headline": "_____ Seize Power stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Nazis Seize Power reshapes politics in Germany."
+    }
+  },
+  {
+    "event_title": "Spanish Civil War Begins",
+    "date": "1936",
+    "country_or_region": "Spain",
+    "domain": "Military",
+    "accepted_answers": [
+      "Spanish Civil War Begins"
+    ],
+    "clues": {
+      "1_date": "1936",
+      "2_geo_domain": "Spain \u2022 military",
+      "3_vague_headline": "Nationalists and republicans clash in a brutal prelude to global conflict.",
+      "4_redacted_headline": "_____ Civil War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Spanish Civil War Begins reshapes military in Spain."
+    }
+  },
+  {
+    "event_title": "Kristallnacht",
+    "date": "1938-11-09",
+    "country_or_region": "Germany",
+    "domain": "Human Rights",
+    "accepted_answers": [
+      "Kristallnacht"
+    ],
+    "clues": {
+      "1_date": "1938-11-09",
+      "2_geo_domain": "Germany \u2022 human rights",
+      "3_vague_headline": "Coordinated attacks target Jewish businesses and synagogues.",
+      "4_redacted_headline": "_____ stands as a pivotal moment in human rights.",
+      "5_almost_full_headline": "Kristallnacht reshapes human rights in Germany."
+    }
+  },
+  {
+    "event_title": "World War II Begins",
+    "date": "1939-09-01",
+    "country_or_region": "Europe",
+    "domain": "Military",
+    "accepted_answers": [
+      "World War II Begins"
+    ],
+    "clues": {
+      "1_date": "1939-09-01",
+      "2_geo_domain": "Europe \u2022 military",
+      "3_vague_headline": "An invasion of Poland draws powers into a second global war.",
+      "4_redacted_headline": "_____ War II Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "World War II Begins reshapes military in Europe."
+    }
+  },
+  {
+    "event_title": "Attack on Pearl Harbor",
+    "date": "1941-12-07",
+    "country_or_region": "Pacific",
+    "domain": "Military",
+    "accepted_answers": [
+      "Attack on Pearl Harbor"
+    ],
+    "clues": {
+      "1_date": "1941-12-07",
+      "2_geo_domain": "Pacific \u2022 military",
+      "3_vague_headline": "A surprise strike pulls the United States fully into World War II.",
+      "4_redacted_headline": "_____ on Pearl Harbor stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Attack on Pearl Harbor reshapes military in Pacific."
+    }
+  },
+  {
+    "event_title": "D-Day Landings",
+    "date": "1944-06-06",
+    "country_or_region": "Normandy",
+    "domain": "Military",
+    "accepted_answers": [
+      "D-Day Landings"
+    ],
+    "clues": {
+      "1_date": "1944-06-06",
+      "2_geo_domain": "Normandy \u2022 military",
+      "3_vague_headline": "Allied troops storm beaches to liberate Western Europe.",
+      "4_redacted_headline": "_____ Landings stands as a pivotal moment in military.",
+      "5_almost_full_headline": "D-Day Landings reshapes military in Normandy."
+    }
+  },
+  {
+    "event_title": "Atomic Bombing of Hiroshima",
+    "date": "1945-08-06",
+    "country_or_region": "Japan",
+    "domain": "Military",
+    "accepted_answers": [
+      "Atomic Bombing of Hiroshima"
+    ],
+    "clues": {
+      "1_date": "1945-08-06",
+      "2_geo_domain": "Japan \u2022 military",
+      "3_vague_headline": "A new weapon devastates a city and hastens the end of World War II.",
+      "4_redacted_headline": "_____ Bombing of Hiroshima stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Atomic Bombing of Hiroshima reshapes military in Japan."
+    }
+  },
+  {
+    "event_title": "United Nations Founded",
+    "date": "1945-10-24",
+    "country_or_region": "Global",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "United Nations Founded"
+    ],
+    "clues": {
+      "1_date": "1945-10-24",
+      "2_geo_domain": "Global \u2022 diplomacy",
+      "3_vague_headline": "Nations establish an international body to maintain peace.",
+      "4_redacted_headline": "_____ Nations Founded stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "United Nations Founded reshapes diplomacy in Global."
+    }
+  },
+  {
+    "event_title": "Indian Independence",
+    "date": "1947-08-15",
+    "country_or_region": "India",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Indian Independence"
+    ],
+    "clues": {
+      "1_date": "1947-08-15",
+      "2_geo_domain": "India \u2022 politics",
+      "3_vague_headline": "A colonial empire grants freedom leading to partition.",
+      "4_redacted_headline": "_____ Independence stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Indian Independence reshapes politics in India."
+    }
+  },
+  {
+    "event_title": "State of Israel Declared",
+    "date": "1948-05-14",
+    "country_or_region": "Middle East",
+    "domain": "Politics",
+    "accepted_answers": [
+      "State of Israel Declared"
+    ],
+    "clues": {
+      "1_date": "1948-05-14",
+      "2_geo_domain": "Middle East \u2022 politics",
+      "3_vague_headline": "A new nation is proclaimed in a former mandate territory.",
+      "4_redacted_headline": "_____ of Israel Declared stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "State of Israel Declared reshapes politics in Middle East."
+    }
+  },
+  {
+    "event_title": "NATO Established",
+    "date": "1949-04-04",
+    "country_or_region": "Atlantic",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "NATO Established"
+    ],
+    "clues": {
+      "1_date": "1949-04-04",
+      "2_geo_domain": "Atlantic \u2022 diplomacy",
+      "3_vague_headline": "Western nations form a mutual defense alliance.",
+      "4_redacted_headline": "_____ Established stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "NATO Established reshapes diplomacy in Atlantic."
+    }
+  },
+  {
+    "event_title": "People's Republic of China Founded",
+    "date": "1949-10-01",
+    "country_or_region": "China",
+    "domain": "Politics",
+    "accepted_answers": [
+      "People's Republic of China Founded"
+    ],
+    "clues": {
+      "1_date": "1949-10-01",
+      "2_geo_domain": "China \u2022 politics",
+      "3_vague_headline": "Communist forces proclaim victory and a new government.",
+      "4_redacted_headline": "_____ Republic of China Founded stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "People's Republic of China Founded reshapes politics in China."
+    }
+  },
+  {
+    "event_title": "Korean War Begins",
+    "date": "1950-06-25",
+    "country_or_region": "Korean Peninsula",
+    "domain": "Military",
+    "accepted_answers": [
+      "Korean War Begins"
+    ],
+    "clues": {
+      "1_date": "1950-06-25",
+      "2_geo_domain": "Korean Peninsula \u2022 military",
+      "3_vague_headline": "Northern troops cross a border, triggering UN-backed defense.",
+      "4_redacted_headline": "_____ War Begins stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Korean War Begins reshapes military in Korean Peninsula."
+    }
+  },
+  {
+    "event_title": "Discovery of DNA Double Helix",
+    "date": "1953",
+    "country_or_region": "United Kingdom",
+    "domain": "Science",
+    "accepted_answers": [
+      "Discovery of DNA Double Helix"
+    ],
+    "clues": {
+      "1_date": "1953",
+      "2_geo_domain": "United Kingdom \u2022 science",
+      "3_vague_headline": "Researchers publish the structure of genetic material.",
+      "4_redacted_headline": "_____ of DNA Double Helix stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Discovery of DNA Double Helix reshapes science in United Kingdom."
+    }
+  },
+  {
+    "event_title": "Coronation of Queen Elizabeth II",
+    "date": "1953-06-02",
+    "country_or_region": "United Kingdom",
+    "domain": "Culture",
+    "accepted_answers": [
+      "Coronation of Queen Elizabeth II"
+    ],
+    "clues": {
+      "1_date": "1953-06-02",
+      "2_geo_domain": "United Kingdom \u2022 culture",
+      "3_vague_headline": "A young monarch is crowned in a globally broadcast ceremony.",
+      "4_redacted_headline": "_____ of Queen Elizabeth II stands as a pivotal moment in culture.",
+      "5_almost_full_headline": "Coronation of Queen Elizabeth II reshapes culture in United Kingdom."
+    }
+  },
+  {
+    "event_title": "Brown v. Board of Education",
+    "date": "1954-05-17",
+    "country_or_region": "United States",
+    "domain": "Law",
+    "accepted_answers": [
+      "Brown v. Board of Education"
+    ],
+    "clues": {
+      "1_date": "1954-05-17",
+      "2_geo_domain": "United States \u2022 law",
+      "3_vague_headline": "High court rules segregated public schools unconstitutional.",
+      "4_redacted_headline": "_____ v. Board of Education stands as a pivotal moment in law.",
+      "5_almost_full_headline": "Brown v. Board of Education reshapes law in United States."
+    }
+  },
+  {
+    "event_title": "Geneva Accords on Vietnam",
+    "date": "1954",
+    "country_or_region": "Switzerland",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "Geneva Accords on Vietnam"
+    ],
+    "clues": {
+      "1_date": "1954",
+      "2_geo_domain": "Switzerland \u2022 diplomacy",
+      "3_vague_headline": "Agreements temporarily divide a Southeast Asian nation.",
+      "4_redacted_headline": "_____ Accords on Vietnam stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "Geneva Accords on Vietnam reshapes diplomacy in Switzerland."
+    }
+  },
+  {
+    "event_title": "Suez Crisis",
+    "date": "1956",
+    "country_or_region": "Egypt",
+    "domain": "Military",
+    "accepted_answers": [
+      "Suez Crisis"
+    ],
+    "clues": {
+      "1_date": "1956",
+      "2_geo_domain": "Egypt \u2022 military",
+      "3_vague_headline": "An invasion of a nationalized waterway sparks international tension.",
+      "4_redacted_headline": "_____ Crisis stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Suez Crisis reshapes military in Egypt."
+    }
+  },
+  {
+    "event_title": "Sputnik Launched",
+    "date": "1957-10-04",
+    "country_or_region": "Space",
+    "domain": "Science",
+    "accepted_answers": [
+      "Sputnik Launched"
+    ],
+    "clues": {
+      "1_date": "1957-10-04",
+      "2_geo_domain": "Space \u2022 science",
+      "3_vague_headline": "First artificial satellite orbits Earth, starting the space race.",
+      "4_redacted_headline": "_____ Launched stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Sputnik Launched reshapes science in Space."
+    }
+  },
+  {
+    "event_title": "Cuban Revolution Triumph",
+    "date": "1959-01-01",
+    "country_or_region": "Cuba",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Cuban Revolution Triumph"
+    ],
+    "clues": {
+      "1_date": "1959-01-01",
+      "2_geo_domain": "Cuba \u2022 politics",
+      "3_vague_headline": "Guerrilla forces oust a dictator in the Caribbean.",
+      "4_redacted_headline": "_____ Revolution Triumph stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Cuban Revolution Triumph reshapes politics in Cuba."
+    }
+  },
+  {
+    "event_title": "Berlin Wall Constructed",
+    "date": "1961-08-13",
+    "country_or_region": "Germany",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Berlin Wall Constructed"
+    ],
+    "clues": {
+      "1_date": "1961-08-13",
+      "2_geo_domain": "Germany \u2022 politics",
+      "3_vague_headline": "A barrier rises overnight dividing a city and worldviews.",
+      "4_redacted_headline": "_____ Wall Constructed stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Berlin Wall Constructed reshapes politics in Germany."
+    }
+  },
+  {
+    "event_title": "Cuban Missile Crisis",
+    "date": "1962-10",
+    "country_or_region": "Caribbean",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Cuban Missile Crisis"
+    ],
+    "clues": {
+      "1_date": "1962-10",
+      "2_geo_domain": "Caribbean \u2022 politics",
+      "3_vague_headline": "Superpowers confront over nuclear weapons deployment.",
+      "4_redacted_headline": "_____ Missile Crisis stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Cuban Missile Crisis reshapes politics in Caribbean."
+    }
+  },
+  {
+    "event_title": "March on Washington",
+    "date": "1963-08-28",
+    "country_or_region": "United States",
+    "domain": "Civil Rights",
+    "accepted_answers": [
+      "March on Washington"
+    ],
+    "clues": {
+      "1_date": "1963-08-28",
+      "2_geo_domain": "United States \u2022 civil rights",
+      "3_vague_headline": "A massive rally hears a dream of equality.",
+      "4_redacted_headline": "_____ on Washington stands as a pivotal moment in civil rights.",
+      "5_almost_full_headline": "March on Washington reshapes civil rights in United States."
+    }
+  },
+  {
+    "event_title": "Civil Rights Act Signed",
+    "date": "1964-07-02",
+    "country_or_region": "United States",
+    "domain": "Law",
+    "accepted_answers": [
+      "Civil Rights Act Signed"
+    ],
+    "clues": {
+      "1_date": "1964-07-02",
+      "2_geo_domain": "United States \u2022 law",
+      "3_vague_headline": "Legislation outlaws segregation and major discrimination.",
+      "4_redacted_headline": "_____ Rights Act Signed stands as a pivotal moment in law.",
+      "5_almost_full_headline": "Civil Rights Act Signed reshapes law in United States."
+    }
+  },
+  {
+    "event_title": "Six-Day War",
+    "date": "1967-06",
+    "country_or_region": "Middle East",
+    "domain": "Military",
+    "accepted_answers": [
+      "Six-Day War"
+    ],
+    "clues": {
+      "1_date": "1967-06",
+      "2_geo_domain": "Middle East \u2022 military",
+      "3_vague_headline": "A brief conflict reshapes borders in the Levant.",
+      "4_redacted_headline": "_____ War stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Six-Day War reshapes military in Middle East."
+    }
+  },
+  {
+    "event_title": "Prague Spring",
+    "date": "1968",
+    "country_or_region": "Czechoslovakia",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Prague Spring"
+    ],
+    "clues": {
+      "1_date": "1968",
+      "2_geo_domain": "Czechoslovakia \u2022 politics",
+      "3_vague_headline": "Reform movement crushed by a Warsaw Pact invasion.",
+      "4_redacted_headline": "_____ Spring stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Prague Spring reshapes politics in Czechoslovakia."
+    }
+  },
+  {
+    "event_title": "Apollo 11 Moon Landing",
+    "date": "1969-07-20",
+    "country_or_region": "Moon",
+    "domain": "Science",
+    "accepted_answers": [
+      "Apollo 11 Moon Landing"
+    ],
+    "clues": {
+      "1_date": "1969-07-20",
+      "2_geo_domain": "Moon \u2022 science",
+      "3_vague_headline": "Humans walk on another world for the first time.",
+      "4_redacted_headline": "_____ 11 Moon Landing stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Apollo 11 Moon Landing reshapes science in Moon."
+    }
+  },
+  {
+    "event_title": "Woodstock Festival",
+    "date": "1969-08",
+    "country_or_region": "New York",
+    "domain": "Culture",
+    "accepted_answers": [
+      "Woodstock Festival"
+    ],
+    "clues": {
+      "1_date": "1969-08",
+      "2_geo_domain": "New York \u2022 culture",
+      "3_vague_headline": "Hundreds of thousands gather for an iconic music event.",
+      "4_redacted_headline": "_____ Festival stands as a pivotal moment in culture.",
+      "5_almost_full_headline": "Woodstock Festival reshapes culture in New York."
+    }
+  },
+  {
+    "event_title": "Bangladesh Liberation War",
+    "date": "1971",
+    "country_or_region": "South Asia",
+    "domain": "Military",
+    "accepted_answers": [
+      "Bangladesh Liberation War"
+    ],
+    "clues": {
+      "1_date": "1971",
+      "2_geo_domain": "South Asia \u2022 military",
+      "3_vague_headline": "A conflict leads to independence from Pakistan.",
+      "4_redacted_headline": "_____ Liberation War stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Bangladesh Liberation War reshapes military in South Asia."
+    }
+  },
+  {
+    "event_title": "Oil Crisis",
+    "date": "1973",
+    "country_or_region": "Global",
+    "domain": "Economy",
+    "accepted_answers": [
+      "Oil Crisis"
+    ],
+    "clues": {
+      "1_date": "1973",
+      "2_geo_domain": "Global \u2022 economy",
+      "3_vague_headline": "Embargoes cause fuel shortages and price spikes.",
+      "4_redacted_headline": "_____ Crisis stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "Oil Crisis reshapes economy in Global."
+    }
+  },
+  {
+    "event_title": "Fall of Saigon",
+    "date": "1975-04-30",
+    "country_or_region": "Vietnam",
+    "domain": "Military",
+    "accepted_answers": [
+      "Fall of Saigon"
+    ],
+    "clues": {
+      "1_date": "1975-04-30",
+      "2_geo_domain": "Vietnam \u2022 military",
+      "3_vague_headline": "Helicopters evacuate as a capital falls, ending a long war.",
+      "4_redacted_headline": "_____ of Saigon stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Fall of Saigon reshapes military in Vietnam."
+    }
+  },
+  {
+    "event_title": "Apple Computer Founded",
+    "date": "1976-04-01",
+    "country_or_region": "United States",
+    "domain": "Technology",
+    "accepted_answers": [
+      "Apple Computer Founded"
+    ],
+    "clues": {
+      "1_date": "1976-04-01",
+      "2_geo_domain": "United States \u2022 technology",
+      "3_vague_headline": "A garage startup begins selling personal computers.",
+      "4_redacted_headline": "_____ Computer Founded stands as a pivotal moment in technology.",
+      "5_almost_full_headline": "Apple Computer Founded reshapes technology in United States."
+    }
+  },
+  {
+    "event_title": "Iranian Revolution",
+    "date": "1979",
+    "country_or_region": "Iran",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Iranian Revolution"
+    ],
+    "clues": {
+      "1_date": "1979",
+      "2_geo_domain": "Iran \u2022 politics",
+      "3_vague_headline": "A monarchy collapses and an Islamic republic is declared.",
+      "4_redacted_headline": "_____ Revolution stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Iranian Revolution reshapes politics in Iran."
+    }
+  },
+  {
+    "event_title": "Solidarity Movement Emerges",
+    "date": "1980",
+    "country_or_region": "Poland",
+    "domain": "Labor",
+    "accepted_answers": [
+      "Solidarity Movement Emerges"
+    ],
+    "clues": {
+      "1_date": "1980",
+      "2_geo_domain": "Poland \u2022 labor",
+      "3_vague_headline": "An independent trade union challenges a communist regime.",
+      "4_redacted_headline": "_____ Movement Emerges stands as a pivotal moment in labor.",
+      "5_almost_full_headline": "Solidarity Movement Emerges reshapes labor in Poland."
+    }
+  },
+  {
+    "event_title": "First Space Shuttle Launch",
+    "date": "1981-04-12",
+    "country_or_region": "United States",
+    "domain": "Science",
+    "accepted_answers": [
+      "First Space Shuttle Launch"
+    ],
+    "clues": {
+      "1_date": "1981-04-12",
+      "2_geo_domain": "United States \u2022 science",
+      "3_vague_headline": "A reusable spacecraft makes its maiden flight.",
+      "4_redacted_headline": "_____ Space Shuttle Launch stands as a pivotal moment in science.",
+      "5_almost_full_headline": "First Space Shuttle Launch reshapes science in United States."
+    }
+  },
+  {
+    "event_title": "Chernobyl Disaster",
+    "date": "1986-04-26",
+    "country_or_region": "Ukraine",
+    "domain": "Disaster",
+    "accepted_answers": [
+      "Chernobyl Disaster"
+    ],
+    "clues": {
+      "1_date": "1986-04-26",
+      "2_geo_domain": "Ukraine \u2022 disaster",
+      "3_vague_headline": "A reactor explosion spreads radiation across Europe.",
+      "4_redacted_headline": "_____ Disaster stands as a pivotal moment in disaster.",
+      "5_almost_full_headline": "Chernobyl Disaster reshapes disaster in Ukraine."
+    }
+  },
+  {
+    "event_title": "Black Monday Stock Crash",
+    "date": "1987-10-19",
+    "country_or_region": "Global",
+    "domain": "Economy",
+    "accepted_answers": [
+      "Black Monday Stock Crash"
+    ],
+    "clues": {
+      "1_date": "1987-10-19",
+      "2_geo_domain": "Global \u2022 economy",
+      "3_vague_headline": "Markets worldwide plunge in a single day.",
+      "4_redacted_headline": "_____ Monday Stock Crash stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "Black Monday Stock Crash reshapes economy in Global."
+    }
+  },
+  {
+    "event_title": "Tiananmen Square Protests",
+    "date": "1989-06",
+    "country_or_region": "China",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Tiananmen Square Protests"
+    ],
+    "clues": {
+      "1_date": "1989-06",
+      "2_geo_domain": "China \u2022 politics",
+      "3_vague_headline": "Calls for reform end with a military crackdown.",
+      "4_redacted_headline": "_____ Square Protests stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Tiananmen Square Protests reshapes politics in China."
+    }
+  },
+  {
+    "event_title": "Fall of the Berlin Wall",
+    "date": "1989-11-09",
+    "country_or_region": "Germany",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Fall of the Berlin Wall"
+    ],
+    "clues": {
+      "1_date": "1989-11-09",
+      "2_geo_domain": "Germany \u2022 politics",
+      "3_vague_headline": "A barrier opens, heralding the end of Cold War division.",
+      "4_redacted_headline": "_____ of the Berlin Wall stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Fall of the Berlin Wall reshapes politics in Germany."
+    }
+  },
+  {
+    "event_title": "World Wide Web Proposed",
+    "date": "1989",
+    "country_or_region": "Switzerland",
+    "domain": "Technology",
+    "accepted_answers": [
+      "World Wide Web Proposed"
+    ],
+    "clues": {
+      "1_date": "1989",
+      "2_geo_domain": "Switzerland \u2022 technology",
+      "3_vague_headline": "A researcher outlines a hyperlinked information system.",
+      "4_redacted_headline": "_____ Wide Web Proposed stands as a pivotal moment in technology.",
+      "5_almost_full_headline": "World Wide Web Proposed reshapes technology in Switzerland."
+    }
+  },
+  {
+    "event_title": "Nelson Mandela Released",
+    "date": "1990-02-11",
+    "country_or_region": "South Africa",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Nelson Mandela Released"
+    ],
+    "clues": {
+      "1_date": "1990-02-11",
+      "2_geo_domain": "South Africa \u2022 politics",
+      "3_vague_headline": "A political prisoner walks free after 27 years.",
+      "4_redacted_headline": "_____ Mandela Released stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Nelson Mandela Released reshapes politics in South Africa."
+    }
+  },
+  {
+    "event_title": "German Reunification",
+    "date": "1990-10-03",
+    "country_or_region": "Germany",
+    "domain": "Politics",
+    "accepted_answers": [
+      "German Reunification"
+    ],
+    "clues": {
+      "1_date": "1990-10-03",
+      "2_geo_domain": "Germany \u2022 politics",
+      "3_vague_headline": "Eastern and western states formally merge.",
+      "4_redacted_headline": "_____ Reunification stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "German Reunification reshapes politics in Germany."
+    }
+  },
+  {
+    "event_title": "Dissolution of the Soviet Union",
+    "date": "1991-12-26",
+    "country_or_region": "Eurasia",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Dissolution of the Soviet Union"
+    ],
+    "clues": {
+      "1_date": "1991-12-26",
+      "2_geo_domain": "Eurasia \u2022 politics",
+      "3_vague_headline": "A superpower breaks into multiple independent republics.",
+      "4_redacted_headline": "_____ of the Soviet Union stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Dissolution of the Soviet Union reshapes politics in Eurasia."
+    }
+  },
+  {
+    "event_title": "Maastricht Treaty Signed",
+    "date": "1992-02-07",
+    "country_or_region": "Europe",
+    "domain": "Diplomacy",
+    "accepted_answers": [
+      "Maastricht Treaty Signed"
+    ],
+    "clues": {
+      "1_date": "1992-02-07",
+      "2_geo_domain": "Europe \u2022 diplomacy",
+      "3_vague_headline": "Nations agree to deepen integration and create a common currency.",
+      "4_redacted_headline": "_____ Treaty Signed stands as a pivotal moment in diplomacy.",
+      "5_almost_full_headline": "Maastricht Treaty Signed reshapes diplomacy in Europe."
+    }
+  },
+  {
+    "event_title": "Rwandan Genocide",
+    "date": "1994",
+    "country_or_region": "Rwanda",
+    "domain": "Human Rights",
+    "accepted_answers": [
+      "Rwandan Genocide"
+    ],
+    "clues": {
+      "1_date": "1994",
+      "2_geo_domain": "Rwanda \u2022 human rights",
+      "3_vague_headline": "Mass killings devastate a central African nation.",
+      "4_redacted_headline": "_____ Genocide stands as a pivotal moment in human rights.",
+      "5_almost_full_headline": "Rwandan Genocide reshapes human rights in Rwanda."
+    }
+  },
+  {
+    "event_title": "Nelson Mandela Elected President",
+    "date": "1994-05-10",
+    "country_or_region": "South Africa",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Nelson Mandela Elected President"
+    ],
+    "clues": {
+      "1_date": "1994-05-10",
+      "2_geo_domain": "South Africa \u2022 politics",
+      "3_vague_headline": "A former prisoner becomes the nation's first Black leader.",
+      "4_redacted_headline": "_____ Mandela Elected President stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Nelson Mandela Elected President reshapes politics in South Africa."
+    }
+  },
+  {
+    "event_title": "Oklahoma City Bombing",
+    "date": "1995-04-19",
+    "country_or_region": "United States",
+    "domain": "Terrorism",
+    "accepted_answers": [
+      "Oklahoma City Bombing"
+    ],
+    "clues": {
+      "1_date": "1995-04-19",
+      "2_geo_domain": "United States \u2022 terrorism",
+      "3_vague_headline": "A truck bomb destroys a federal building.",
+      "4_redacted_headline": "_____ City Bombing stands as a pivotal moment in terrorism.",
+      "5_almost_full_headline": "Oklahoma City Bombing reshapes terrorism in United States."
+    }
+  },
+  {
+    "event_title": "World Trade Organization Formed",
+    "date": "1995-01-01",
+    "country_or_region": "Global",
+    "domain": "Economy",
+    "accepted_answers": [
+      "World Trade Organization Formed"
+    ],
+    "clues": {
+      "1_date": "1995-01-01",
+      "2_geo_domain": "Global \u2022 economy",
+      "3_vague_headline": "An international body replaces GATT to govern trade rules.",
+      "4_redacted_headline": "_____ Trade Organization Formed stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "World Trade Organization Formed reshapes economy in Global."
+    }
+  },
+  {
+    "event_title": "Hong Kong Handover",
+    "date": "1997-07-01",
+    "country_or_region": "Hong Kong",
+    "domain": "Politics",
+    "accepted_answers": [
+      "Hong Kong Handover"
+    ],
+    "clues": {
+      "1_date": "1997-07-01",
+      "2_geo_domain": "Hong Kong \u2022 politics",
+      "3_vague_headline": "A territory returns from British to Chinese sovereignty.",
+      "4_redacted_headline": "_____ Kong Handover stands as a pivotal moment in politics.",
+      "5_almost_full_headline": "Hong Kong Handover reshapes politics in Hong Kong."
+    }
+  },
+  {
+    "event_title": "Kyoto Protocol Signed",
+    "date": "1997-12-11",
+    "country_or_region": "Japan",
+    "domain": "Environment",
+    "accepted_answers": [
+      "Kyoto Protocol Signed"
+    ],
+    "clues": {
+      "1_date": "1997-12-11",
+      "2_geo_domain": "Japan \u2022 environment",
+      "3_vague_headline": "Nations commit to greenhouse gas reduction targets.",
+      "4_redacted_headline": "_____ Protocol Signed stands as a pivotal moment in environment.",
+      "5_almost_full_headline": "Kyoto Protocol Signed reshapes environment in Japan."
+    }
+  },
+  {
+    "event_title": "Euro Introduced",
+    "date": "1999-01-01",
+    "country_or_region": "Europe",
+    "domain": "Economy",
+    "accepted_answers": [
+      "Euro Introduced"
+    ],
+    "clues": {
+      "1_date": "1999-01-01",
+      "2_geo_domain": "Europe \u2022 economy",
+      "3_vague_headline": "A common currency launches for electronic transactions.",
+      "4_redacted_headline": "_____ Introduced stands as a pivotal moment in economy.",
+      "5_almost_full_headline": "Euro Introduced reshapes economy in Europe."
+    }
+  },
+  {
+    "event_title": "Human Genome Project Draft Completed",
+    "date": "2000",
+    "country_or_region": "Global",
+    "domain": "Science",
+    "accepted_answers": [
+      "Human Genome Project Draft Completed"
+    ],
+    "clues": {
+      "1_date": "2000",
+      "2_geo_domain": "Global \u2022 science",
+      "3_vague_headline": "Researchers announce a working map of human DNA.",
+      "4_redacted_headline": "_____ Genome Project Draft Completed stands as a pivotal moment in science.",
+      "5_almost_full_headline": "Human Genome Project Draft Completed reshapes science in Global."
+    }
+  },
+  {
+    "event_title": "September 11 Attacks",
+    "date": "2001-09-11",
+    "country_or_region": "United States",
+    "domain": "Terrorism",
+    "accepted_answers": [
+      "September 11 Attacks"
+    ],
+    "clues": {
+      "1_date": "2001-09-11",
+      "2_geo_domain": "United States \u2022 terrorism",
+      "3_vague_headline": "Coordinated hijackings strike landmarks.",
+      "4_redacted_headline": "_____ 11 Attacks stands as a pivotal moment in terrorism.",
+      "5_almost_full_headline": "September 11 Attacks reshapes terrorism in United States."
+    }
+  },
+  {
+    "event_title": "Invasion of Iraq",
+    "date": "2003-03-20",
+    "country_or_region": "Iraq",
+    "domain": "Military",
+    "accepted_answers": [
+      "Invasion of Iraq"
+    ],
+    "clues": {
+      "1_date": "2003-03-20",
+      "2_geo_domain": "Iraq \u2022 military",
+      "3_vague_headline": "Coalition forces begin a campaign to topple a regime.",
+      "4_redacted_headline": "_____ of Iraq stands as a pivotal moment in military.",
+      "5_almost_full_headline": "Invasion of Iraq reshapes military in Iraq."
+    }
+  }
+]
