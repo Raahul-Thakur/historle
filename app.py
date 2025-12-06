@@ -24,6 +24,7 @@ def _load_local_events() -> list[Dict[str, Any]]:
         print(f"Failed to load local events: {exc}")
         return []
 
+LOCAL_EVENTS = _load_local_events()
 
 LOCAL_EVENTS = _load_local_events()
 
